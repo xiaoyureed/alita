@@ -12,7 +12,7 @@
     <artifactId>alita-sample</artifactId>
 
     <properties>
-        <jetty.version>9.4.28.v20200408</jetty.version>
+        <jetty.version>9.4.30.v20200611</jetty.version>
     </properties>
 
     <dependencies>
